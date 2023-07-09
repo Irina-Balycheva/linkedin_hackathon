@@ -60,7 +60,7 @@
 ### В номинации "The Best work. Data Science" наша команда заняла 1 место.
 
 <img src='ya_diplom_ds_ga_1st.png'>
-<src='ds_1st.pdf'>
+<img src='Irina_1.png'>
 
 [Видео Демо](https://www.youtube.com/watch?v=OW7VT7JqUfc) |  [Видео объявления 1 места в номинации PM](https://www.youtube.com/watch?v=DVwQpKVLsD8) | [Видео объявления 1 места в номинации DS](https://www.youtube.com/watch?v=3CMyaunKJbM)
 
