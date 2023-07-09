@@ -53,7 +53,7 @@
 ## Награды
 
 ### В абсолюте, наша команда заняла 3 место.
-[<img src='[C:\Users\user\Desktop\Hackathons\LinkedIn_menthoring\diploms\15](https://github.com/Irina-Balycheva/linkedin_hackathon/issues/1#issue-1795346892).png'>](https://github.com/Irina-Balycheva/linkedin_hackathon/issues/1#issue-1795346892)
+[<img src='https://github.com/Irina-Balycheva/linkedin_hackathon/issues/1#issue-1795346892'
 <img src='ya_diplom_ga_3rd.png'>
 
 ### В номинации "The Best work. Data Science" наша команда заняла 1 место.
